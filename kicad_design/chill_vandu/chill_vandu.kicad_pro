@@ -28,7 +28,20 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_not_driven|1511300|317500|71edf05c-bad2-4b31-9d8a-dc4252d8dd3f|00000000-0000-0000-0000-000000000000|/9026e3c1-a1e4-4a28-8b3a-9e9f918cd6da|/9026e3c1-a1e4-4a28-8b3a-9e9f918cd6da|",
+        ""
+      ],
+      [
+        "pin_not_driven|1511300|469900|60b1a636-5255-4e36-81c7-99073e0329b5|00000000-0000-0000-0000-000000000000|/9026e3c1-a1e4-4a28-8b3a-9e9f918cd6da|/9026e3c1-a1e4-4a28-8b3a-9e9f918cd6da|",
+        ""
+      ],
+      [
+        "pin_not_driven|3822700|1219200|f7521a31-7f9c-4569-aad9-27bfcae97a26|00000000-0000-0000-0000-000000000000|/9026e3c1-a1e4-4a28-8b3a-9e9f918cd6da|/9026e3c1-a1e4-4a28-8b3a-9e9f918cd6da|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -430,7 +443,7 @@
         "uuid": "9026e3c1-a1e4-4a28-8b3a-9e9f918cd6da"
       }
     ],
-    "used_designators": "#FLG1-2,#PWR1-27,C1-37,Card1,D1,LED1-3,R1-25,SW1-5,U1-3,USBC1,X1",
+    "used_designators": "#FLG1-3,#PWR1-30,BOOTSEL1,C1-37,Card1,D1,J1,LED1-3,LEDBLUE1,LEDGREEN1,LEDRED1,R1-27,SW1-5,TP1-3,TPGND1,TPSWCLK1,TPSWD1,U1-3,USBC1,X1",
     "variants": []
   },
   "sheets": [
