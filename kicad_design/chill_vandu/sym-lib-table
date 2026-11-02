@@ -11,4 +11,5 @@
 	(lib (name "Flash_W25Q128") (type "KiCad") (uri "${KIPRJMOD}/Project_Libs/Symbols/Flash_W25Q128.kicad_sym") (options "") (descr ""))
 	(lib (name "RP2040") (type "KiCad") (uri "${KIPRJMOD}/Project_Libs/Symbols/RP2040.kicad_sym") (options "") (descr ""))
 	(lib (name "LDO_LW5433") (type "KiCad") (uri "${KIPRJMOD}/Project_Libs/Symbols/LDO_LW5433.kicad_sym") (options "") (descr ""))
+	(lib (name "USB_A_Male") (type "KiCad") (uri "${KIPRJMOD}/Project_Libs/Symbols/USB_A_Male.kicad_sym") (options "") (descr ""))
 )
